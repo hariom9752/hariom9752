@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on AI/ML & Python projects.<br><br>👯 Open to collaborating on innovative projects.<br><br>🌱 Learning DSA, Machine Learning & Data Science.<br><br>💬 Ask me about Python, SQL & AI/ML.<br><br>⚡ Turning ideas into code!
+🔭 Working on AI/ML & Python projects.<br><br>🌱 Learning DSA, Machine Learning & Data Science.<br><br>💬 Ask me about Python, SQL & AI/ML.<br><br>⚡ Turning ideas into code!
 
 
 ## 🌐 Socials:
